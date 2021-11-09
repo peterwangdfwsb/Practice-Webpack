@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA;IACI,YAAY;IACZ,aAAa;IACb,sBAAsB;AAC1B,C","sources":["webpack://webpack-practice/./src/index.css"],"sourcesContent":["div {\n    width: 100px;\n    height: 100px;\n    background-color: aqua;\n}"],"names":[],"sourceRoot":""}
